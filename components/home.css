@@ -1,0 +1,55 @@
+.left{
+    position: relative;
+    left: 5rem ;
+    top: 5rem;
+}
+.left h6{
+    color: orange;
+    margin-bottom: -2rem;
+}
+.left h1{
+    font-size: 3rem;
+    
+}
+.left span{
+    background-color: orangered;
+    color: white;
+}
+.left p{
+    font-weight: 500;
+}
+.left button{
+    background-color: black;
+    color: white;
+    padding: 15px 30px;
+}
+.right{
+    display: flex;
+}
+.year{
+    position: relative;
+    right: 12rem;
+    top: 10rem;
+}
+.old{
+    display: flex;
+}
+.yas{
+    background-color: orangered;
+    color:white;
+    padding:15px 20px;
+    font-size: 20px;
+    border-radius: 1rem;
+    margin-top:2rem ;
+}
+.text{
+    padding-top: -1rem;
+    padding-left: 1rem;
+}
+.text h4{
+    font-size: 1.2rem;
+}
+.text h6{
+    margin-top: -1rem;
+    color: rgba(0, 0, 0, 0.299);
+}
